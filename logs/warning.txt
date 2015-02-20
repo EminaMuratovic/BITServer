@@ -1,1 +1,15 @@
 Tue Feb 10 18:58:32 CET 2015 Was not GET request
+Fri Feb 20 14:46:33 CET 2015 File not found./html/js/botstrapmin.js (No such file or directory)
+Fri Feb 20 14:46:33 CET 2015 File not found./html/bootstrap-theme.min.css (No such file or directory)
+Fri Feb 20 14:46:33 CET 2015 File not found./html/favicon.ico (No such file or directory)
+Fri Feb 20 15:11:42 CET 2015 File not found./html/bootstrap-theme.min.css (No such file or directory)
+Fri Feb 20 15:11:42 CET 2015 File not found./html/js/botstrapmin.js (No such file or directory)
+Fri Feb 20 15:19:53 CET 2015 File not found./html/js/botstrapmin.js (No such file or directory)
+Fri Feb 20 15:19:53 CET 2015 File not found./html/bootstrap-theme.min.css (No such file or directory)
+Fri Feb 20 15:19:55 CET 2015 Was not GET request
+Fri Feb 20 15:28:20 CET 2015 File not found./html/js/botstrapmin.js (No such file or directory)
+Fri Feb 20 15:28:20 CET 2015 File not found./html/bootstrap-theme.min.css (No such file or directory)
+Fri Feb 20 15:28:45 CET 2015 Was not GET request
+Fri Feb 20 15:28:45 CET 2015 File not found./html/bootstrap-theme.min.css (No such file or directory)
+Fri Feb 20 15:28:45 CET 2015 File not found./html/js/botstrapmin.js (No such file or directory)
+Fri Feb 20 16:27:38 CET 2015 Was not GET request
